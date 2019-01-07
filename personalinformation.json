@@ -1,0 +1,39 @@
+[
+    {
+        "hobbys": [
+            "Guitar", 
+            "Chess", 
+            "Programming", 
+            "Soccer"
+        ], 
+        "first_name": "Dastan", 
+        "last_name": "Alymbekov", 
+        "family": [
+            "two brothers", 
+            "Mommy"
+        ], 
+        "language": {
+            "first_language": "Kyrgyz", 
+            "second_language": "Russia", 
+            "third_language": "English"
+        }, 
+        "details_of_me": {
+            "age": 21, 
+            "national": "KYRGYZ", 
+            "weight": 55, 
+            "height": 169
+        }, 
+        "studys": {
+            "courses": [
+                "engish_course - Enlish Zone", 
+                "programming_course-IT academy", 
+                "tehnologys_course-Alma-Ata,Kazakstan"
+            ], 
+            "school": [
+                "school_number_3", 
+                "isito"
+            ], 
+            "university": "KGTU name of Razzakova"
+        }
+    }
+]
